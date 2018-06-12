@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LanguageDemo</string>
+    <string name="test">你好世界(默認)!</string>
+</resources>
